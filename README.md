@@ -16,3 +16,5 @@ Consequently, 17 features were extracted as a biomarker, and they showed good pe
 This study proposed a supervised ML framework where we can rely on taxonomic features along with ML and DL techniques to classify overlapped AC and SCC metagenomic data. 
 This framework provides lung microbiome as a predictive and diagnostic biomarker in LC. Moreover, this framework will also be helpful to obtain further biomarkers and perform analysis of overlapped subtypes in different diseases.
  
+*************************************************************************************************************************************************************
+
