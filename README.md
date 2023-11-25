@@ -13,5 +13,6 @@ ML-based models were developed to discriminate NSCLC subtypes based on their mic
 Consequently, 17 features were extracted as a biomarker, and they showed good performance in distinguishing AC from SCC with an accuracy of 81% in the K-nearest neighbour and 71% in DNN when demonstrated on the validation dataset.
 
 ## Conclusion
-This study proposed a supervised ML framework where we can rely on taxonomic features along with ML and DL techniques to classify overlapped AC and SCC metagenomic data. This framework provides lung microbiome as a predictive and diagnostic biomarker in LC. Moreover, this framework will also be helpful to obtain further biomarkers and perform analysis of overlapped subtypes in different diseases.
+This study proposed a supervised ML framework where we can rely on taxonomic features along with ML and DL techniques to classify overlapped AC and SCC metagenomic data. 
+This framework provides lung microbiome as a predictive and diagnostic biomarker in LC. Moreover, this framework will also be helpful to obtain further biomarkers and perform analysis of overlapped subtypes in different diseases.
  
