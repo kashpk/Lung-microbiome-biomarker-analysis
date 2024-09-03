@@ -10,7 +10,7 @@ The prediction performance of the models was evaluated for their classification 
 
 ## Results
 ML-based models were developed to discriminate NSCLC subtypes based on their microbial information.
-Consequently, 17 features were extracted as a biomarker, and they showed good performance in distinguishing AC from SCC with an accuracy of 76.25% in the XGB on original and independent dataset.
+Consequently, 10 features were extracted as a biomarker, and they showed good performance in distinguishing AC from SCC with an accuracy of 76.25% in the XGB on original and independent dataset.
 
 ## Conclusion
 This study proposed a supervised ML framework where we can rely on taxonomic features along with ML and DL techniques to classify overlapped AC and SCC metagenomic data. 
