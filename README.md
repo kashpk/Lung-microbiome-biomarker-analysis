@@ -10,7 +10,7 @@ The prediction performance of the models was evaluated for their classification 
 
 ## Results
 ML-based models were developed to discriminate NSCLC subtypes based on their microbial information.
-Consequently, 10 features were extracted as a biomarker, and they showed good performance in distinguishing AC from SCC with an accuracy of 76.25% and AUROC (Area Under the Receiver Operating Characteristic) of 0.81 with 69% specificity and 76% sensitivity, outperforms the other five classification algorithms using LDA-transformed features. Furthermore, the performance of XGBoost was validated using an independent dataset. It showed the highest AUROC of 0.71 with 58% specificity and 64% sensitivity, with the fewest false positives and negatives crucial for accurately classifying these subtypes. 
+Consequently, 10 features were extracted as a biomarker, and they showed good performance in distinguishing AC from SCC with an accuracy of 76.25% and AUROC (Area Under the Receiver Operating Characteristic) of 0.81 with 69% specificity and 76% sensitivity, outperforms the other five classification algorithms using LDA-transformed features. Furthermore, the performance of XGBoost was validated using an independent dataset. It showed the highest AUROC of 0.71 with 58% specificity and 65% sensitivity, with the fewest false positives and negatives crucial for accurately classifying these subtypes. 
 
 ## Conclusion
 This study proposed a supervised ML framework where we can rely on taxonomic features along with ML and DL techniques to classify overlapped AC and SCC metagenomic data. 
